@@ -1,0 +1,12 @@
+considerations:
+- angle of imagery
+- bands
+- date captured
+- remove trees
+
+super pixels, clustering of similar pixels
+	- superpixel oversegmentation, the SLIC algorithm
+
+segmentation
+tensor flow
+road network to filter out
